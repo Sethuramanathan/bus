@@ -6,7 +6,7 @@ public static void main (String[] args) {
 System.out.println("what is the india score");
 int score=s.nextInt();
 //System.out.println("what will be the india score");
-if(score>=150)
+if(score==205)
 {
 	System.out.println("india will lose the match");
 }
