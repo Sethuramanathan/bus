@@ -8,11 +8,11 @@ int score=s.nextInt();
 //System.out.println("what will be the india score");
 if(score==205)
 {
-	System.out.println("india will lose the match");
+	System.out.println("india will win the match");
 }
 else
 {
-	System.out.println("india will win the match");
+	System.out.println("india will lose the match");
 }
 
 }
